@@ -5,8 +5,8 @@
   "description": "Sample Chrome Extension",
   "content_scripts": [
     {
-      "matches": ["https://github.com/*"],
-      "js": ["grassNutrition.js"]
+      "matches": ["https://github.com/myConsciousness"],
+      "js": ["./src/js/grassNutrition.js"]
     }
   ]
 }
