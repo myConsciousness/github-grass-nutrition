@@ -13,8 +13,12 @@ window.onload = function () {
     (svgWrapper) => {
       Array.from(svgWrapper.getElementsByTagName("g"))
         .slice(1)
-        .forEach((grass) => {
-          console.log(grass);
+        .forEach((grassGroup) => {
+          Array.from(grassGroup.getElementsByTagName("rect")).forEach(
+            (grass) => {
+              console.log(grass);
+            }
+          );
         });
     }
   );
