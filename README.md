@@ -10,6 +10,11 @@ It sounds like a joke, but I seriously made a script to make Github's contributi
 
 It's hard to imagine a situation where it would actually be useful, but why not dye your contribution graph green and take a picture of it?
 
+## Why `Grass Nutrition`?
+
+In Japan, the green rectangle in the graph is called `grass`.<br>
+It's interesting, isn't it?
+
 ## License
 
 ```
