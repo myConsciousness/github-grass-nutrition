@@ -4,7 +4,7 @@
 
 ## What is it?
 
-**_It makes your Github contribution graph in Github pseudo-lively!_**
+**_It makes your Github contribution graph in Github pseudo-buzzing!_**
 
 It sounds like a joke, but I seriously made a script to make Github's contributions pseudo-buzzing.
 
