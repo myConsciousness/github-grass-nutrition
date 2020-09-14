@@ -4,6 +4,12 @@
 
 ## What is it?
 
+**_It makes your Github contribution graph in Github pseudo-lively!_**
+
+It sounds like a joke, but I seriously made a script to make Github's contributions pseudo-buzzing.
+
+It's hard to imagine a situation where it would actually be useful, but why not dye your contribution graph green and take a picture of it?
+
 ## License
 
 ```
