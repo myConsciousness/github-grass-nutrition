@@ -1,5 +1,7 @@
 # Github Grass Nutrition
 
+![github-grass-nutrition](https://user-images.githubusercontent.com/13072231/93067521-4c220480-f6b6-11ea-907f-377b347e94e1.png)
+
 ## What is it?
 
 ## License
